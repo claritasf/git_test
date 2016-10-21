@@ -1,0 +1,1 @@
+This is Clarita's first git project!!
